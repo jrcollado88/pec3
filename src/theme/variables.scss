@@ -45,6 +45,7 @@ $colors: (
 // App iOS Variables
 // --------------------------------------------------
 // iOS only Sass variables can go here
+$tabs-ios-tab-min-height:70px;
 
 
 
@@ -52,14 +53,14 @@ $colors: (
 // App Material Design Variables
 // --------------------------------------------------
 // Material Design only Sass variables can go here
-
+$tabs-md-tab-min-height:7.1rem;
 
 
 
 // App Windows Variables
 // --------------------------------------------------
 // Windows only Sass variables can go here
-
+$tabs-wp-tab-min-height:7.1rem;
 
 
 
